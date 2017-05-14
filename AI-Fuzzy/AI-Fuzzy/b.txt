@@ -1,0 +1,5 @@
+frig -31 -30 -20 0
+rece -5 0 10
+normal 5 10 15 20
+cald 15 20 25
+foarte_cald 25 30 35 36

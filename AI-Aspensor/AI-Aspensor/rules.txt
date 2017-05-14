@@ -1,0 +1,8 @@
+daca A atunci B
+daca C atunci D
+daca E ^ D atunci F
+daca G atunci H
+daca I atunci J
+daca K atunci L
+daca M ^ (N ^ D) atunci O
+daca I atunci R

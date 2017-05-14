@@ -1,0 +1,18 @@
+A temperatura > 40
+B aspensorul uda 30 de minute
+C cerul este senin
+D umiditatea < 50
+E temperatura > 25
+F aspensorul uda 20 de minute
+G este vara
+H temperatura > 20
+I este iarna
+J temperatura < 5
+K sunt nori
+L umiditatea > 60
+M temperatura > 15
+N temperatura < 25
+O aspensorul uda 10 minute
+P umiditatea > 50
+Q aspensorul uda 3 minute
+R aspensorul este oprit
